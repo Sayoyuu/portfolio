@@ -1,5 +1,5 @@
 # Meu portfólio 2C
-## Este repositório conterá os trabalhos feitos durante o curso técnico de desenvolvimentos de sistemas do Senai <h2>
+## Este repositório conterá meus trabalhos realizados durante o curso técnico de desenvolvimentos de sistemas do Senai <h2>
 # Sobre mim:
 * Meu nome é Saori Ribas, tenho 16 anos e nasci em Uruguaiana - RS.
 * Faço aniversário dia 11/03/2006.
