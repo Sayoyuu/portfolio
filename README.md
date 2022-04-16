@@ -10,4 +10,4 @@
 * **Manipulação de Diretórios**
 * **Design**
 * **Java**
-<img src="smiley.gif" alt="Smiley face" width="42" height="42" style="float:right">
+<img src="smiley.jpeg" alt="Smiley face" width="42" height="42" style="float:right">
