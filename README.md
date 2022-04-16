@@ -10,4 +10,6 @@
 * **Manipulação de Diretórios**
 * **Design**
 * **Java**
-<img src="smiley.jpeg" alt="Smiley face" width="42" height="42" style="float:right">
+<a href="https://upload.wikimedia.org/wikipedia/en/d/d0/JaketheDog.png">
+<img src="JaketheDog.png" alt="upload.wikimedia.org" width="100" height="132">
+</a>
