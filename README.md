@@ -10,6 +10,5 @@
 * **Manipulação de Diretórios**
 * **Design**
 * **Java**
-<a href="https://upload.wikimedia.org/wikipedia/en/d/d0/JaketheDog.png">
-<img src="JaketheDog.png" alt="upload.wikimedia.org" width="100" height="132">
+<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
 </a>
