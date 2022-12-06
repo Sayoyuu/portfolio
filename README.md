@@ -7,6 +7,5 @@
 * Leitora nas horas vagas, gosto de cuidar de minhas plantas e ouvir uma boa música.
 # Conteúdos vistos ao longo do 1º trimestre:
 * **Fundamentos de TI**
-* **Manipulação de Diretórios**
 * **Design**
 * **Java**
